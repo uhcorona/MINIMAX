@@ -1,1 +1,1 @@
-return 42;
+document.getElementsByTagName('body').item(0).innerHTML = "42";
